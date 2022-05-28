@@ -9,6 +9,7 @@ import { Box } from '../components/Box'
 import { Button } from '../components/Button'
 
 export const Premium = ({ navigation }) => {
+    
     return (
         <SafeAreaView>
             <Header navigation={navigation}>
