@@ -22,7 +22,7 @@ export const Explore = ({ navigation }) => {
             </View>
             <Nav navigation={navigation} />
             <Background />
-        </SafeAreaView >
+        </SafeAreaView>
     )
 }
 
