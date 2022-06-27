@@ -19,7 +19,7 @@ export const movie = [
         title: 'After',
         rate: 5.2,
         time: '1h 46m'
-    },
+    }
 ]
 
 export const video = {
